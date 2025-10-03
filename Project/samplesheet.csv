@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,strandedness
+TESTONE,/home/fmt101/work/Project/fasta/SRR2045415_1.fastq.gz,/home/fmt101/work/Project/fasta/SRR2045415_2.fastq.gz,unstranded
+TESTTWO,/home/fmt101/work/Project/fasta/SRR2045416_1.fastq.gz,/home/fmt101/work/Project/fasta/SRR2045416_2.fastq.gz,unstranded
+TESTTHREE,/home/fmt101/work/Project/fasta/SRR2045417_1.fastq.gz,/home/fmt101/work/Project/fasta/SRR2045417_2.fastq.gz,unstranded
